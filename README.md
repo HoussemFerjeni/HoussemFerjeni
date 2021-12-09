@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently searching for an end of study internship
 - 🌱 I’m currently learning Python,Swift, Unity, Android
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/houssem-ferjani-9a4a79166/"> My LinkedIn</a> or at Houssem.ferjani@esprit.tn
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/houssem-ferjani-9a4a79166/"> My LinkedIn</a> or at Houssem.ferjani@esprit.tn || ferjani.houssem@outlook.fr
 - 😄 Pronouns: He/His
 
 <h1>Technologies I use :</h1>
@@ -39,24 +39,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="50" />
-
-
-
-
-
-
    </p>
-<!--
-**HoussemFerjeni/HoussemFerjeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
