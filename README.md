@@ -20,7 +20,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  width="40"/>
 
  </p>
-
+```javascript
+var Houssem = {
+  pronouns: "He" | "His",
+  Code : [Javascript , Typescript , Java , Python],
+  Frontend : [Angular , ReactJS],
+  Backend : [NodeJs, ExpressJS, Spring Boot],
+  Mobile : [Flutter , Ios native , Android native , React Native],
+  architecture: ["microservices", "event-driven", "MVC"],
+  SCM: {
+                        Private project: "Github",
+                        Professional Project: "Gitlab",
+                        Learning: "Bitbucket"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40"/>
